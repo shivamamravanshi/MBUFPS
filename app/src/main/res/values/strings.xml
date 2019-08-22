@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MBUFP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_toll_tax">Map</string>
+    <string name="enter_your_destination">Enter Your Destination</string>
+    <string-array name="destinations">
+        <item>Delhi</item>
+        <item>Jabalpur</item>
+    </string-array>
+</resources>
